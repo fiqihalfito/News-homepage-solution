@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://github.com/fiqihalfito/News-homepage-solution)
+- Live Site URL: [here](https://news-homepage-solution-fiqih.vercel.app/)
 
 ## My process
 
